@@ -8,4 +8,5 @@ requestTypesAndSubTypes = {
 		"Money Movement - Outbound": ["Foreign Currency"]
 	};
 keyMetrics = ["sender name", "amount", "expiration date", "and date to transfer", "account number"]
+duplicateCheckThresold = 0.8
  
