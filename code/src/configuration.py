@@ -9,4 +9,5 @@ requestTypesAndSubTypes = {
 	};
 keyMetrics = ["sender name", "amount", "expiration date", "and date to transfer", "account number"]
 duplicateCheckThresold = 0.8
+NGORK_TOKEN="2t6u6zBAZFZh2JGODqQ0s0MyQt8_7XXGdkuk8Mm3UhCdw73WA"
  
