@@ -1,0 +1,9 @@
+langchain
+langchain_community
+faiss-cpu
+eml_parser
+pypdf
+transformers
+accelerate
+Flask
+pyngrok

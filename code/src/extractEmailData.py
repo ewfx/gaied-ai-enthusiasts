@@ -1,3 +1,9 @@
+import email
+from bs4 import BeautifulSoup
+import os
+import tempfile
+from langchain.document_loaders import PyPDFLoader
+from openpyxl import load_workbook
 
 # Function to extract text from PDFs
 def extract_text_from_pdf(pdf_paths):
