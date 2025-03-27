@@ -12,6 +12,12 @@ This project is a Commercial Loan Servicing Assistant built using LangChain and 
 * **Flask API:** Provides a REST API for seamless integration with other systems.
 * **Ngrok Integration:** Exposes the Flask API publicly using Ngrok for easy access.
 
+## Architecture
+
+The following diagram illustrates the overall architecture of the Commercial Loan Servicing Assistant:
+
+![Architecture Diagram](architecture%20diagram.png)
+
 ## Configuration
 
 This project utilizes a configuration file (`configuration.py`) to store important settings and data. 
